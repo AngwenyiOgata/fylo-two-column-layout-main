@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site: [live site ](https://angwenyiogata.github.io/fylo-two-column-layout-main/)
 
 ## My process
 
